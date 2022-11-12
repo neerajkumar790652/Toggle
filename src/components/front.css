@@ -1,0 +1,43 @@
+.light-text{
+    color:balck;
+}
+.dark-text{
+    color:white;
+}
+.light-bg{
+    background-color: white;
+}
+.dark-bg{
+    background-color: black;
+}
+#container{
+    padding:10px ,20px;
+}
+h1{
+    float:center;
+}
+h3{
+    color:rgb(236, 91,115)
+}
+.light-clr{
+    color:white;
+}
+.dark-clr{
+    color:black
+}
+button{
+    float:right;
+    position:relative;
+    top:-45px;
+    right:95px;
+    background-color:rgb(236, 91,115);
+    border-radius: 5px;
+    color:black;
+    width:100px;
+    height: 30px;
+}
+.data{
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 44%;
+}
