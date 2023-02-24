@@ -20,7 +20,7 @@ const Front = () => {
             <h3>The WET Codbase</h3>
             <div className={isLight===true ? "light-text": "dark-text"}>
                 <p>
-                    <em> Sunday 4th, 2020 11 min read</em>
+                    <em> Sunday 4th, 2020 15 min read</em>
                 </p>
                 <p>Come waste your time with me</p>
             </div>
